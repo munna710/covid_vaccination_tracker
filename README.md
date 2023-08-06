@@ -9,7 +9,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
--- git clone https://github.com/your-username/covid-vaccination-tracker.git
+-- git clone https://github.com/munna710/covid-vaccination-tracker.git
 Open Tableau Desktop and select "Open" from the "File" menu. Navigate to the repository directory and select the covid_vaccination_tracker.twb file to open the Tableau workbook.
 
 In the Tableau workbook, navigate to the "Data Source" tab and update the data connection to use the latest data from the Our World in Data website. You can do this by clicking on the "Edit Data Source" button and following the prompts.
